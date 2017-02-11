@@ -471,3 +471,16 @@ select {
   .column.large-uncentered.opposite,
   .columns.large-uncentered.opposite {
     float: right !important; } }
+
+      .bar-block {
+            background-color: #4286f4;
+            color: white;
+            text-align: right;
+            margin-top: 2px;
+            margin-bottom: 2px;
+        }
+        
+        .bar-label {
+            width: 50px;
+            text-align: right;
+        }
